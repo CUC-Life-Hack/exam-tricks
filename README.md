@@ -1,1 +1,1 @@
-请参阅 [wiki](./wiki) 页。
+请参阅 [wiki 页](https://github.com/CUC-Life-Hack/exam-tricks/wiki)。
